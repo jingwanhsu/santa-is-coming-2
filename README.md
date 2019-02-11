@@ -1,4 +1,4 @@
-# santa-is-coming-2
+# santa-is-coming-again
 A simple lottery program used to let me exchange (Christmas) gifts with friends
 
 ## Usage
